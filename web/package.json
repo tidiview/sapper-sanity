@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "sanity-sapper-blog-web",
+  "name": "sanity-sapper-web",
   "description": "Sapper frontend",
   "version": "0.0.15",
   "scripts": {
